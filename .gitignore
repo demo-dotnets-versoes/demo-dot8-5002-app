@@ -1,2 +1,7 @@
-# Build and Release Folders
-
+# User-specific files
+.vs/
+.vscode/*
+bin/
+obj/
+.config/*
+dist/*
